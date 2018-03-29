@@ -17,7 +17,11 @@ a:visited {
 a:hover {
 	color: yellow;
 }
+
+h1{
+	margin: 0;
+}
 .content{
 	height: 630px;
-	background-color: darkcyan;
+	background-color: gainsboro;
 }
