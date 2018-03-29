@@ -1,3 +1,22 @@
 body{
 	background-color: darkcyan;	
 }
+
+.border{
+	background-color: black;
+	width: 100%;
+	color: white;
+	height: 45px;
+	text-decoration: none;
+}
+
+a:visited {
+	color: white;
+}
+
+a:hover {
+	color: yellow;
+}
+.content{
+	height: 650px;
+}
