@@ -17,11 +17,22 @@ a:visited {
 a:hover {
 	color: yellow;
 }
-
+p{
+	margin-left: 56px;
+	font-size: 25px;
+}
 h1{
 	margin: 0;
 }
 .content{
 	height: 630px;
 	background-color: gainsboro;
+}
+
+.sign{background-color: black;
+  width: 60px;
+  height 90px;
+  border-color: darkcyan;
+  border-width: 9px;
+  margin-left: 100px;
 }
