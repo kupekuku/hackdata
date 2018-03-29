@@ -30,9 +30,9 @@ h1{
 }
 
 .sign{background-color: black;
-  width: 60px;
-  height 90px;
+  width: 200px;
+  height: 300px;
   border-color: darkcyan;
-  border-width: 9px;
   margin-left: 100px;
+  align-content: center;
 }
